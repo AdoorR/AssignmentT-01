@@ -1,0 +1,33 @@
+body{
+    font-family: 'Luxurious Roman', cursive;
+}
+.stay-on{
+    font-size: 50px;
+    border-left: rgba(238, 155, 45, 0.938);
+}
+.miss{
+    color: rgba(248, 179, 50, 0.849);
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 70%;
+    padding-left: 5%;
+}
+.half-width img{
+    width: 70%;
+    padding-top: 5%;
+    padding-left: 5%;
+}
+.ador{
+    font-size:20px ;
+}
+.link{
+    text-decoration: none;
+    background-color: rgb(241, 65, 241);
+    padding: 10px 35px;
+    color: rgb(20, 62, 199);
+    font-weight: 700;
+    border-radius: 5px;
+}
