@@ -31,3 +31,50 @@ section{
     font-weight: 700;
     border-radius: 5px;
 }
+.my{
+    text-align: center;
+    padding-top: 30px;
+}
+.span{
+    color: rgba(238, 72, 30, 0.973);
+}
+.gool{
+    display: flexbox;
+    width: 100%;
+    margin-left: 5%;
+    margin-right: 5%;
+    
+}
+.div-1{
+    padding-inline: 3%;
+    padding-bottom: 3%;
+    background-color: rgba(218, 58, 30, 0.459);
+    border-radius: 5%;
+    
+}
+.div-2{
+    background-color: rgba(209, 81, 209, 0.493);
+    padding-inline: 3%;
+    padding-bottom: 3%;
+    border-radius: 5%;
+    
+}
+.div-3{
+    background-color: rgba(228, 191, 143, 0.5);
+    border-radius: 5%;
+    padding-inline: 3%;
+    padding-bottom: 3%;
+    
+}
+.img-1{
+    width: 40%;
+    padding-right: 200%;
+}
+.img-2{
+    width: 40%;
+    padding-right: 200%;
+}
+.img-3{
+    width: 40%;
+    padding-right: 200%;
+}
