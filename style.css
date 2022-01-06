@@ -1,18 +1,20 @@
 body{
     font-family: 'Luxurious Roman', cursive;
+    margin: 0%;
 }
 .stay-oon{
     font-size: 50px;
     border-left: solid tomato;
     border-width: 10px;
-    border-radius: 1.5%;
-
+    border-bottom-left-radius: 1.5%;
+    padding-left: 4%;
+    border-top-left-radius: 1.5%;
 }
 .stay-on{
     font-size: 50px;
 }
 .miss{
-    color: rgba(248, 179, 50, 0.849);
+    color: rgba(68, 21, 155, 0.685);
 }
 .flexible-container{
     display: flex;
@@ -32,11 +34,12 @@ body{
 }
 .link{
     text-decoration: none;
-    background-color: rgba(241, 65, 241, 0.753);
-    padding: 10px 35px;
-    color: rgb(20, 62, 199);
+    background-color: rgb(255, 71, 178);
+    padding: 10px 22px;
+    color: rgba(247, 247, 247, 0.918);
     font-weight: 700;
     border-radius: 5px;
+    
 }
 .my{
     font-size: 50px;
@@ -91,47 +94,41 @@ footer{
     color: rgba(42, 116, 165, 0.747);
 }
 .mis{
-    color: rgba(53, 100, 0, 0.733);
+    color: rgba(255, 255, 255, 0.856);
 }
 #div-1{
-    background-color: rgba(233, 41, 233, 0.26);
-    width: 25%;
+    background-color: rgba(233, 41, 233, 0.137);
     float: left;
     border-radius: 5%;
     padding-right: 3%;
     padding-left: 3%;
-    padding-bottom: 3%;
-    margin-left: 2%;
+    margin-left: 4%;
     margin-right: 2%;
 }
 #div-2{
    
-    background-color: rgba(16, 123, 156, 0.295);
-    width: 25%;
+    background-color: rgba(16, 123, 156, 0.144);
     float: right;
     border-radius: 5%;
     padding-right: 3%;
     padding-left: 3%;
-    padding-bottom: 3%;
     margin-left: 2%;
-    margin-right: 2%;
+    margin-right: 4%;
 }
 #div-3{
-    background-color: rgba(3, 94, 33, 0.212);
-    width: 25%;
+    background-color: rgba(9, 129, 49, 0.137);
     margin: 0 auto;
     border-radius: 5%;
     padding-right: 3%;
     padding-left: 3%;
-    padding-bottom: 3%;
-    
+    margin-right: 4%;
 }
 .img-1{
     width: 40%;
     padding-right: 60%;
 }
 .img-2{
-    width: 40%;
+    width: 30%;
     padding-right: 60%;
 }
 .img-3{
@@ -139,6 +136,7 @@ footer{
     padding-right: 60%;
 }
 .mother{
+    display: flex;
     padding-top: 7%;
 } 
 .stayy-on{
