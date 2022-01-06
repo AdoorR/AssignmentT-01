@@ -1,14 +1,18 @@
 body{
     font-family: 'Luxurious Roman', cursive;
 }
+.stay-onn{
+    font-size: 50px;
+    border-left: 10px solid ;
+
+}
 .stay-on{
     font-size: 50px;
-    border-left: rgba(238, 155, 45, 0.938);
 }
 .miss{
     color: rgba(248, 179, 50, 0.849);
 }
-section{
+.flexible-container{
     display: flex;
 }
 .half-width{
@@ -32,49 +36,56 @@ section{
     border-radius: 5px;
 }
 .my{
+    font-size: 50px;
     text-align: center;
     padding-top: 30px;
 }
 .span{
     color: rgba(238, 72, 30, 0.973);
 }
-.gool{
-    display: flexbox;
-    width: 100%;
-    margin-left: 5%;
-    margin-right: 5%;
-    
+
+.half-widthh{
+    width: 80%;
+    padding-right: 5%;
+    padding-top: 5%;
+   
 }
-.div-1{
-    padding-inline: 3%;
-    padding-bottom: 3%;
-    background-color: rgba(218, 58, 30, 0.459);
-    border-radius: 5%;
-    
+.half-widthh img{
+    width: 70%;
+    padding-top: 5%;
+    padding-left: 15%;
 }
-.div-2{
-    background-color: rgba(209, 81, 209, 0.493);
-    padding-inline: 3%;
-    padding-bottom: 3%;
-    border-radius: 5%;
-    
+.developerr{
+    display: flex;
 }
-.div-3{
-    background-color: rgba(228, 191, 143, 0.5);
-    border-radius: 5%;
-    padding-inline: 3%;
-    padding-bottom: 3%;
-    
+.half-widthhh{
+    width: 80%;
+    padding-left: 10%;
+    padding-top: 5%;
 }
-.img-1{
-    width: 40%;
-    padding-right: 200%;
+.half-widthhh img{
+    width: 70%;
+    padding-top: 5%;
+    padding-right: 10%;
 }
-.img-2{
-    width: 40%;
-    padding-right: 200%;
+.myy{
+    font-size: 50px;
+    text-align: center;
+    padding-top: 100px;
 }
-.img-3{
-    width: 40%;
-    padding-right: 200%;
+.stay-onn{
+    font-size: 50px;
+    border-left: rgba(238, 155, 45, 0.938);
+    padding-top: 100px;
+}
+footer{
+    text-align: center;
+    background-color: rgb(19, 10, 10);
+    height: 80px;
+    }
+.foot{
+    color: rgba(42, 116, 165, 0.747);
+}
+.mis{
+    color: rgba(53, 100, 0, 0.733);
 }
