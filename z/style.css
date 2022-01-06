@@ -1,0 +1,16 @@
+#div-1{
+    background-color: darkmagenta;
+    width: 30%;
+    float: left;
+}
+#div-2{
+   
+    background-color: darkmagenta;
+    width: 30%;
+    float: right;
+}
+#div-3{
+    background-color: darkmagenta;
+    width: 30%;
+    margin: 0 auto;
+}
